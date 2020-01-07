@@ -12,6 +12,9 @@
     "autoload": {
         "psr-4": {
             "Antiockus\\": "src/"
-        }
+        },
+        "classmap": [
+            "src/"
+        ]
     }
 }

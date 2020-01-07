@@ -1,7 +1,8 @@
 <?php
+    declare(strict_types=1);
 namespace Antiockus;
 
-class todo
+final class todo
 {
     public $todo;
 
