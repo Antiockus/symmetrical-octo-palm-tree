@@ -1,0 +1,17 @@
+{
+    "name": "antiockus/php_todo",
+    "authors": [
+        {
+            "name": "Tim Squires",
+            "email": "antiockus@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Antiockus\\": "src/"
+        }
+    }
+}
