@@ -13,6 +13,8 @@
         <div class="row">
             <div class="col-md-12">
                 <h2>PHP Todo App</h2>
+                <!-- ADD TODO FORM -->
+                <!-- ADD LIST OF TODOS -->
             </div>
         </div>
     </div>
