@@ -16,6 +16,20 @@
                 <h2>PHP Todo App</h2>
                 <!-- ADD TODO FORM -->
                 <!-- ADD LIST OF TODOS -->
+                <form action="process.php" method="post">
+                    <div class="form-control-group">
+                        <label for="todo">Todo: </label>
+                        <input type="text" name="todo" id="todo">
+                    </div>
+                    <button type="submit" value="s">Submit</button>
+                </form>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <ul>
+
+                </ul>
             </div>
         </div>
     </div>
