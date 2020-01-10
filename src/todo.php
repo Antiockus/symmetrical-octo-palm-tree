@@ -11,8 +11,4 @@ final class todo
     {
         $this->todo = $todo;
     }
-
-    public function save(db $db)
-    {
-    }
 }
